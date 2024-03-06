@@ -1,0 +1,22 @@
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Shared\bin\Debug\net6.0\MoviesApp.Shared.deps.json
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Shared\bin\Debug\net6.0\MoviesApp.Shared.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Shared\bin\Debug\net6.0\MoviesApp.Shared.pdb
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Shared\obj\Debug\net6.0\MoviesApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Shared\obj\Debug\net6.0\MoviesApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Shared\obj\Debug\net6.0\MoviesApp.Shared.AssemblyInfo.cs
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Shared\obj\Debug\net6.0\MoviesApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Shared\obj\Debug\net6.0\MoviesApp.Shared.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Shared\obj\Debug\net6.0\refint\MoviesApp.Shared.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Shared\obj\Debug\net6.0\MoviesApp.Shared.pdb
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Shared\obj\Debug\net6.0\ref\MoviesApp.Shared.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Shared\bin\Debug\net6.0\MoviesApp.Shared.deps.json
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Shared\bin\Debug\net6.0\MoviesApp.Shared.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Shared\bin\Debug\net6.0\MoviesApp.Shared.pdb
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Shared\obj\Debug\net6.0\MoviesApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Shared\obj\Debug\net6.0\MoviesApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Shared\obj\Debug\net6.0\MoviesApp.Shared.AssemblyInfo.cs
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Shared\obj\Debug\net6.0\MoviesApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Shared\obj\Debug\net6.0\MoviesApp.Shared.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Shared\obj\Debug\net6.0\refint\MoviesApp.Shared.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Shared\obj\Debug\net6.0\MoviesApp.Shared.pdb
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Shared\obj\Debug\net6.0\ref\MoviesApp.Shared.dll

@@ -1,0 +1,28 @@
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Domain\bin\Debug\net6.0\MoviesApp.Domain.deps.json
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Domain\bin\Debug\net6.0\MoviesApp.Domain.runtimeconfig.json
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Domain\bin\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Domain\bin\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.AssemblyInfo.cs
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\refint\MoviesApp.Domain.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.genruntimeconfig.cache
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\ref\MoviesApp.Domain.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Domain\bin\Debug\net6.0\MoviesApp.Domain.deps.json
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Domain\bin\Debug\net6.0\MoviesApp.Domain.runtimeconfig.json
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Domain\bin\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Domain\bin\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.AssemblyInfo.cs
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Domain\obj\Debug\net6.0\refint\MoviesApp.Domain.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.genruntimeconfig.cache
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp.Domain\obj\Debug\net6.0\ref\MoviesApp.Domain.dll

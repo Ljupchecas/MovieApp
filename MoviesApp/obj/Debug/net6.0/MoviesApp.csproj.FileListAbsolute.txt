@@ -1,0 +1,208 @@
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\MoviesApp.exe
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\MoviesApp.deps.json
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\MoviesApp.runtimeconfig.json
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\MoviesApp.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\MoviesApp.pdb
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\obj\Debug\net6.0\MoviesApp.csproj.AssemblyReference.cache
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\obj\Debug\net6.0\MoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\obj\Debug\net6.0\MoviesApp.AssemblyInfoInputs.cache
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\obj\Debug\net6.0\MoviesApp.AssemblyInfo.cs
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\obj\Debug\net6.0\MoviesApp.csproj.CoreCompileInputs.cache
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\obj\Debug\net6.0\MoviesApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\obj\Debug\net6.0\MoviesApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\obj\Debug\net6.0\staticwebassets\msbuild.MoviesApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\obj\Debug\net6.0\staticwebassets\msbuild.build.MoviesApp.props
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MoviesApp.props
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MoviesApp.props
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\obj\Debug\net6.0\scopedcss\bundle\MoviesApp.styles.css
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\obj\Debug\net6.0\MoviesApp.csproj.CopyComplete
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\obj\Debug\net6.0\MoviesApp.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\obj\Debug\net6.0\refint\MoviesApp.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\obj\Debug\net6.0\MoviesApp.pdb
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\obj\Debug\net6.0\MoviesApp.genruntimeconfig.cache
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\obj\Debug\net6.0\ref\MoviesApp.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\MoviesApp.DataAccess.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\MoviesApp.Helpers.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\MoviesApp.Helpers.pdb
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\MoviesApp.DataAccess.pdb
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\MoviesApp.DTOs.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\MoviesApp.Mappers.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\MoviesApp.Services.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\MoviesApp.DTOs.pdb
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\MoviesApp.Services.pdb
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\MoviesApp.Mappers.pdb
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\MoviesApp.Shared.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\MoviesApp.Shared.pdb
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\XAct.Core.PCL.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET Core Web API\MoviesApp\MoviesApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\obj\Debug\net6.0\MoviesApp.csproj.AssemblyReference.cache
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\obj\Debug\net6.0\MoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\obj\Debug\net6.0\MoviesApp.AssemblyInfoInputs.cache
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\obj\Debug\net6.0\MoviesApp.AssemblyInfo.cs
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\obj\Debug\net6.0\MoviesApp.csproj.CoreCompileInputs.cache
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\obj\Debug\net6.0\MoviesApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\obj\Debug\net6.0\MoviesApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\obj\Debug\net6.0\MoviesApp.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\obj\Debug\net6.0\refint\MoviesApp.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\obj\Debug\net6.0\MoviesApp.pdb
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\MoviesApp.exe
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\MoviesApp.deps.json
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\MoviesApp.runtimeconfig.json
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\MoviesApp.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\MoviesApp.pdb
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\XAct.Core.PCL.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\MoviesApp.DataAccess.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\MoviesApp.DTOs.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\MoviesApp.Helpers.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\MoviesApp.Mappers.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\MoviesApp.Services.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\MoviesApp.Shared.dll
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\MoviesApp.Helpers.pdb
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\MoviesApp.DTOs.pdb
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\MoviesApp.Services.pdb
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\MoviesApp.Shared.pdb
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\MoviesApp.DataAccess.pdb
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\bin\Debug\net6.0\MoviesApp.Mappers.pdb
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\obj\Debug\net6.0\staticwebassets\msbuild.MoviesApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\obj\Debug\net6.0\staticwebassets\msbuild.build.MoviesApp.props
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MoviesApp.props
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MoviesApp.props
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\obj\Debug\net6.0\scopedcss\bundle\MoviesApp.styles.css
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\obj\Debug\net6.0\MoviesApp.csproj.CopyComplete
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\obj\Debug\net6.0\MoviesApp.genruntimeconfig.cache
+C:\Users\Ljupce\Desktop\Programming\Projects GitHub\Back End\ASP.NET Core Web API\MovieApp\MoviesApp\obj\Debug\net6.0\ref\MoviesApp.dll
