@@ -1,2 +1,4 @@
 # MovieApp
 Developed a robust Web API for movie-related functionalities, facilitating seamless access to movie data and management within web applications.
+
+This application is a movie management system built using ASP.NET Core. It provides functionalities to manage movies, such as adding, updating, and deleting movies, as well as filtering them based on criteria like year and genre. The application utilizes JWT (JSON Web Tokens) for authentication, ensuring secure access to its endpoints. Additionally, it includes a User controller with functionalities for user registration and login, enhancing the overall user experience by allowing individuals to create accounts and authenticate themselves to access the movie management features. With its RESTful API architecture and integration of authentication mechanisms, this application offers a robust platform for managing and accessing movie data.
